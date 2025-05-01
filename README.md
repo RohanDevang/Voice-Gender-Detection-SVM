@@ -28,7 +28,7 @@ speakers, providing insights into how gender-related characteristics manifest in
 
 • To analyze the effectiveness of voice-based features (e.g., MFCCs) in distinguishing 
 gender. \
-• To extract key acoustic features that capture vocal characteristics unique to each gender. 
-• To train the SVM with a linear kernel for binary classification: Male vs. Female. 
+• To extract key acoustic features that capture vocal characteristics unique to each gender. \
+• To train the SVM with a linear kernel for binary classification: Male vs. Female. \
 • To evaluate model performance using metrics such as accuracy, precision, recall, and F1
 score.
