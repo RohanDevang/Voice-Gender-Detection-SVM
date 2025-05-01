@@ -1,5 +1,7 @@
 # Voice-Gender-Detection-SVM
 
+# Link to dataset - https://drive.google.com/drive/folders/1Z9KiN5Zkh3Z9cxhNXVOWN0sPtwkwezgk?usp=sharing
+
 **Introduction**
 
 This project focuses on the task of voice gender detection using the VoxCeleb dataset — a 
