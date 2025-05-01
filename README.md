@@ -1,6 +1,6 @@
 # Voice-Gender-Detection-SVM
 
-Introduction
+**Introduction**
 
 This project focuses on the task of voice gender detection using the VoxCeleb dataset — a 
 large-scale collection of speech samples. The dataset features recordings from over 6,000 speakers, 
@@ -24,7 +24,7 @@ accurate but also computationally efficient. Beyond achieving high performance, 
 to highlight the measurable and systematic differences in voice patterns between male and female 
 speakers, providing insights into how gender-related characteristics manifest in speech signals. 
 
-Objectives 
+**Objectives**
 
 • To analyze the effectiveness of voice-based features (e.g., MFCCs) in distinguishing 
 gender. \
