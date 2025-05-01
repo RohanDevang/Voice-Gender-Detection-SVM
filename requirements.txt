@@ -1,0 +1,14 @@
+librosa
+scikit-learn
+matplotlib
+seaborn
+pandas
+noisereduce
+soundfile
+ipykernel
+parselmouth
+numpy
+scipy
+pydub
+ffmpeg
+pyaudio
